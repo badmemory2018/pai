@@ -1,0 +1,5 @@
+{
+  "POLICY1": {"addPriceTime": 13,"addPrice": 900},
+  "POLICY2": {"addPriceTime": 15,"addPrice": 1000},
+  "POLICY3": {"addPriceTime": 11,"addPrice": 800}
+}
